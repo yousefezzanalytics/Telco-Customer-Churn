@@ -1,3 +1,5 @@
+<img width="1433" height="803" alt="Screenshot 2026-04-17 014304" src="https://github.com/user-attachments/assets/7cd0353d-256e-4d3d-a63b-b56bc32c6706" />
+
 Telco Customer Churn Prediction
 Executive Summary
 
